@@ -8,7 +8,7 @@
 
 🌐 Connect with Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/USERNAME/" target="_blank">
+  <a href="https://www.linkedin.com/in/Mohammad Fijar Septa Dendy/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:fijarsepta123@gmail.com">
