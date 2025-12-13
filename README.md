@@ -1,38 +1,47 @@
- 👋 Hi, I'm Fijar
+<div align="center">
+  <h1>👋 Hi, I'm Fijar</h1>
+  <p>
+    <b>Informatics Student | Depok, Indonesia</b><br>
+    <i>"Bridging the gap between Algorithms and Reality."</i>
+  </p>
+</div>
 
-🚀 Mahasiswa Teknik Informatika  
-💻 Pengembang Web Dan Aplikasi  
+
+
+ 👨‍💻 About Me
+ ⚡ Terinspirasi oleh *Nikola Tesla*, saya bermimpi suatu hari dapat berkontribusi pada pengembangan komputasi masa depan (Quantum Computing).
+ 🎯  *"Potensi terbaik manusia akan keluar jika sudah tidak punya pilihan."*
 
 
 
+🛠️ Tech Stack & Tools
 
-🌐 Connect with Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/Mohammad Fijar Septa Dendy/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:fijarsepta123@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
-  </a>
-  <a href="https://github.com/mohammadfijar">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
-  </a>
-</p>
-
-
-
- 🛠️ Tech Stack
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=php,mysql,html,css,js,bootstrap,git,github" />
+  <img src="https://skillicons.dev/icons?i=js,nodejs,php,mysql,html,css,bootstrap,git,github,vscode" />
 </p>
 
 
 
  📊 GitHub Stats
+
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammadfijar&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohammadfijar&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadfijar&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
 </p>
 
 
 
-✨ *“Belajar konsisten hari ini, profesional di masa depan.”*
+ 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/mohammad-fijar-septa-dendy/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:fijarsepta123@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<div align="center">
+  <small><i>"The present is theirs; the future, for which I really worked, is mine." — Nikola Tesla</i></small>
+</div>
