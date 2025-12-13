@@ -9,7 +9,9 @@
 
 
  👨‍💻 About Me
+ 
  ⚡ Terinspirasi oleh *Nikola Tesla*, saya bermimpi suatu hari dapat berkontribusi pada pengembangan komputasi masa depan (Quantum Computing).
+ 
  🎯  *"Potensi terbaik manusia akan keluar jika sudah tidak punya pilihan."*
 
 
