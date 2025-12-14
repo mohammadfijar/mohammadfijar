@@ -28,7 +28,8 @@
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=mohammadfijar&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadfijar&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadfijar&layout=compact&exclude_repo=arsip-digital-web&langs_count=8&theme=tokyonight&hide_border=true" />
+
 </p>
 
 
